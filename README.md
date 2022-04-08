@@ -1,14 +1,16 @@
 # 말감과 진도의 알고리즘 스터디
 
-## 진행방식
+## 진행 방식
 
-### 말감 🎱
+### 말감 🎱 [(malgamlee)](https://github.com/malgamlee)
 
 - 한 주에 최소 9문제 풀기
 
-### 진도 🧶
+### 진도 🧶 [(mimseong)](https://github.com/mimseong)
 
 - 한 주에 3문제 풀기
+
+## 진행 상황
 
 ### 3월 22일
 
