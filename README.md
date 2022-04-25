@@ -4,7 +4,7 @@
 
 ### 말감 🎱 [(malgamlee)](https://github.com/malgamlee)
 
-- 한 주에 최소 9문제 풀기
+- 한 주에 최소 7문제 풀기
 
 ### 진도 🧶 [(mimseong)](https://github.com/mimseong)
 
