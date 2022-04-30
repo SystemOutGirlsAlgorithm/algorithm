@@ -16,6 +16,8 @@
 - 문제를 깃허브에 올린다
 - 디스코드에 문제를 풀었다고 자랑한다
 
+- [자세한 방식](https://github.com/malgamlee/algorithm/wiki/%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%92%80%EA%B3%A0-%EC%9D%B8%EC%A6%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+
 ## 진행 상황
 
 ## 한 주의 시작
