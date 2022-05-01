@@ -2,17 +2,17 @@
 
 ## 5월 스터디원
 
-- 말감 🎱 [(malgamlee)](https://github.com/malgamlee)
+- **말감** 🎱 [(malgamlee)](https://github.com/malgamlee)
   - 한 주에 최소 5문제 풀기
-- 진도 🧶 [(mimseong)](https://github.com/mimseong)
+- **진도** 🧶 [(mimseong)](https://github.com/mimseong)
   - 한 주에 3문제 풀기
-- 다니 🎶 [(Ddaaan)](https://github.com/Ddaaan)
+- **다니** 🎶 [(Ddaaan)](https://github.com/Ddaaan)
   - 하루 1문제 이상 풀기
-- dukdn [(youkm1)](https://github.com/youkm1)
+- **dukdn** [(youkm1)](https://github.com/youkm1)
   - 한 주에 2문제 풀기
-- Yoou 🐧 [(yoouyeon)](https://github.com/yoouyeon)
+- **Yoou** 🐧 [(yoouyeon)](https://github.com/yoouyeon)
   - 한 주에 3문제 풀기
-- Marvy 🕶️ [(Jyeonni)](https://github.com/Jyeonni)
+- **Marvy** 🕶️ [(Jyeonni)](https://github.com/Jyeonni)
   - 한 주에 1문제 이상 풀기
 
 (여기에 닉네임과 깃헙 주소 그리고 목표 추가해주세요!)
