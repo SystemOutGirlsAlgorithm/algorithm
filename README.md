@@ -14,6 +14,8 @@
   - 한 주에 3문제 풀기
 - **Marvy** 🕶️ [(Jyeonni)](https://github.com/Jyeonni)
   - 한 주에 1문제 이상 풀기
+- **Muer** ☁ [(Areuma)](https://github.com/AReuma)
+  - 한 주에 3문제 이상 풀기
 
 (여기에 닉네임과 깃헙 주소 그리고 목표 추가해주세요!)
 
