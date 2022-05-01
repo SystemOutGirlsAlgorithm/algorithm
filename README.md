@@ -22,7 +22,7 @@
 
 - 한 주에 3문제 풀기
 
-### Marvy 🐧 [(Jyeonni)](https://github.com/Jyeonni)
+### Marvy 🕶️ [(Jyeonni)](https://github.com/Jyeonni)
 
 - 한 주에 1문제 이상 풀기
 
