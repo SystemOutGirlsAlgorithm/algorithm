@@ -3,7 +3,7 @@
 ## 5월 스터디원
 
 - **말감** 🎱 [(malgamlee)](https://github.com/malgamlee)
-  - 한 주에 최소 5문제 풀기
+  - 한 주에 4문제 풀기
 - **진도** 🧶 [(mimseong)](https://github.com/mimseong)
   - 한 주에 3문제 풀기
 - **다니** 🎶 [(Ddaaan)](https://github.com/Ddaaan)
