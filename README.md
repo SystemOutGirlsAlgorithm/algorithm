@@ -22,6 +22,8 @@
   - 한 주에 1문제 이상 풀기
 - **YUN** 🌊 [(E-YOON)](https://github.com/E-YOON)
   - 한 주에 5문제 이상 풀기
+- **Beankong** 🌊 [(beankong-github)](https://github.com/beankong-github)
+  - 한 주에 5문제 이상 풀기
 
 (여기에 닉네임과 깃헙 주소 그리고 목표 추가해주세요!)
 
@@ -41,3 +43,5 @@
   - 백준 1149
 - Yoou 🐧
   - 프로그래머스 키패드 누르기
+- Beankong💜
+  - 백준 10869
