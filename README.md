@@ -18,6 +18,9 @@
   - 한 주에 3문제 이상 풀기
 - **깜콩쥬** 🌼 [(Kangyewon)](https://github.com/Kangyewon)
   - 한 주에 2문제 이상 풀기
+- **미도리** 👻 [(daybydoris)](https://github.com/daybydoris)
+  - 한 주에 1문제 이상 풀기
+
 (여기에 닉네임과 깃헙 주소 그리고 목표 추가해주세요!)
 
 ## 진행 방식
