@@ -20,6 +20,8 @@
   - 한 주에 2문제 이상 풀기
 - **미도리** 👻 [(daybydoris)](https://github.com/daybydoris)
   - 한 주에 1문제 이상 풀기
+- **YUN** 🌊 [(E-YOON)](https://github.com/E-YOON)
+  - 한 주에 5문제 이상 풀기
 
 (여기에 닉네임과 깃헙 주소 그리고 목표 추가해주세요!)
 
