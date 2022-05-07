@@ -8,7 +8,7 @@
   - 한 주에 3문제 풀기
 - **다니** 🎶 [(Ddaaan)](https://github.com/Ddaaan)
   - 하루 1문제 이상 풀기
-- **dukdn** [(youkm1)](https://github.com/youkm1)
+- **dukdn** 🚴‍♀️[(youkm1)](https://github.com/youkm1)
   - 한 주에 2문제 풀기
 - **Yoou** 🐧 [(yoouyeon)](https://github.com/yoouyeon)
   - 한 주에 3문제 풀기
