@@ -23,7 +23,7 @@
 - **YUN** 🌊 [(E-YOON)](https://github.com/E-YOON)
   - 한 주에 5문제 이상 풀기
 - **Beankong** 🌊 [(beankong-github)](https://github.com/beankong-github)
-  - 한 주에 5문제 이상 풀기
+  - 한 문제라도 풀기
 
 (여기에 닉네임과 깃헙 주소 그리고 목표 추가해주세요!)
 
