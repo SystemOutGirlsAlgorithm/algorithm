@@ -6,4 +6,4 @@ def factorial(num):
 	return result
 
 n, k = map(int, input().split())
-print(factorial(n)//(factorial(k)*factorial(n-k))) # 재귀적으로 푸는 방법도 고민해보
+print(factorial(n)//(factorial(k)*factorial(n-k))) # 재귀적으로 푸는 방법도 고민해보기
