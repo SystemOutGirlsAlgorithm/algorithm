@@ -31,7 +31,7 @@
 - **유감** 🍒 [(unpieceof)](https://github.com/unpieceof)
   - 한 주에 2문제 이상 풀기
 - **Jedi** 🖖 [(drown-ed)](https://github.com/drown-ed)
- - 한 주에 10문제 풀기
+  - 한 주에 10문제 풀기
   
 (여기에 닉네임과 깃헙 주소 그리고 목표 추가해주세요! 아이콘은 좋아하는 걸로 추가하면 됩니당)
 
