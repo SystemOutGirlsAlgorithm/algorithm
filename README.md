@@ -28,7 +28,7 @@
   - 한 주에 4문제 이상 풀기
 - **룰루** 🎈 [(Chaeyeon1)](https://github.com/Chaeyeon1)
   - 한 주에 2문제 이상 풀기
-- **yoon** 🎈 [(yoon052)](https://github.com/yoon052)
+- **yoon** ⛄ [(yoon052)](https://github.com/yoon052)
   - 하루에 2문제 이상 풀기
 
 ## 진행 방식
