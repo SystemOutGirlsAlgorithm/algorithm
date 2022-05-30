@@ -32,6 +32,8 @@
   - 하루에 2문제 이상 풀기
 - **dyno0o** ⛄ [(soraennon)](https://github.com/soraennon)
   - 한 주에 3문제 이상 풀기
+- **한딱** 🐋 [(haeburney)](https://github.com/haeburney)
+  - 한 주에 3문제 이상 풀기
 
 ## 진행 방식
 
