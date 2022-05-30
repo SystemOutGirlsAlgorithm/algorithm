@@ -34,6 +34,8 @@
   - 한 주에 3문제 이상 풀기
 - **한딱** 🐋 [(haeburney)](https://github.com/haeburney)
   - 한 주에 3문제 이상 풀기
+- **Soyou** 🌈 [(loverduck)](https://github.com/loverduck)
+  - 한 주에 3문제 이상 풀기
 
 ## 진행 방식
 
