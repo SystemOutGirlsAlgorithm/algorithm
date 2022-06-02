@@ -30,7 +30,7 @@
   - 한 주에 2문제 이상 풀기
 - **yoon** ⛄ [(yoon052)](https://github.com/yoon052)
   - 하루에 2문제 이상 풀기
-- **dyno0o** ⛄ [(soraennon)](https://github.com/soraennon)
+- **dyno0o** 🦕 [(soraennon)](https://github.com/soraennon)
   - 한 주에 3문제 이상 풀기
 - **한딱** 🐋 [(haeburney)](https://github.com/haeburney)
   - 한 주에 3문제 이상 풀기
@@ -58,6 +58,8 @@
 ### 5월 31일
 - 안잉 ❄️
   - 백준 1929
+- dyno0o 🦕
+  - 백준 2588 25083 10869
 
 ### 6월 1일
 - 안잉 ❄️
