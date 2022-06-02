@@ -6,7 +6,7 @@ const input = require("fs")
   .map((v) => v.split(" ").map(Number));
 const [start, finish] = input[0];
 
-const isPrime = new Array(finish).fill(true);
+const isPrime = new Array(finish + 1).fill(true);
 isPrime[0] = false;
 isPrime[1] = false;
 
