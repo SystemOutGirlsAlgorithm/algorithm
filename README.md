@@ -9,7 +9,7 @@
 - **Yoou** 🐧 [(yoouyeon)](https://github.com/yoouyeon)
   - 한 주에 1문제 풀기
 - **Marvy** 🕶️ [(Jyeonni)](https://github.com/Jyeonni)
-  - 한 주에 1문제 이상 풀기
+  - 한 주에 1문제 이상 풀기 -> 6월 3주차부터 참여하겠습니다💪
 - **Muer** ☁ [(Areuma)](https://github.com/AReuma)
   - 한 주에 3문제 이상 풀기
 - **미도리** 👻 [(daybydoris)](https://github.com/daybydoris)
