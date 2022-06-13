@@ -23,7 +23,10 @@ class Date:
         return True
 
 def check_day_member(day: dt.date):
-    file_list = os.listdir("./{0}".format(day.strftime("%Y-%m-%d")))
+    file_path = "./{0}".format(day.strftime("%Y-%m-%d"))
+    if os.path.exists(file_path) == False:
+        return
+    file_list = os.listdir(file_path)
     for file in file_list:
         if file == ".DS_Store":
             continue
