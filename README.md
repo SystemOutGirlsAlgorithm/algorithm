@@ -17,7 +17,7 @@
 - **Beankong** 🌊 [(beankong-github)](https://github.com/beankong-github)
   - 한 문제라도 풀기
 - **안잉** ❄️ [(ppmyor)](https://github.com/ppmyor)
-  - 한 주에 3문제 이상 풀기
+  - 한 주에 5문제 이상 풀기
 - **라임민트** S2 [(EssLemint)](https://github.com/EssLemint)
   - 한 주에 2문제 이상 풀기
 - **유감** 🍒 [(unpieceof)](https://github.com/unpieceof)
