@@ -20,6 +20,7 @@ def Knapsack(N, K, WV):
 N, K = map(int,input().split())
 WV = [[0,0]]
 for i in range(N):
+    WV.append(list(map(int,input().split())))
 
 Knapsack(N,K,WV)
 
