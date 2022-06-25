@@ -1,9 +1,11 @@
 import datetime as dt
+import os
 import re
 import sys
-import os
 
-member = ["말감", "진도", "Yoou", "Marvy", "Muer", "미도리", "Beankong", "안잉", "라임민트", "유감", "Jedi", "OoO", "룰루", "yoon", "dyno0o", "한딱", "Soyou", "서나"]
+MEMBER_LIST = ["말감", "진도", "Yoou", "Marvy", "Muer", "미도리", "Beankong", "안잉", "라임민트", "유감", "Jedi", "OoO", "룰루", "yoon", "dyno0o", "한딱", "Soyou", "서나", "hoodu"]
+SOURCE_FILE_EXTENSION = [".java", ".cpp", ".js", ".scala", ".py", ".c"]
+
 problem_count = {}
 
 class Date:
@@ -22,48 +24,80 @@ class Date:
             return False
         return True
 
-def check_day_member(day: dt.date):
-    file_path = "./{0}".format(day.strftime("%Y-%m-%d"))
-    if os.path.exists(file_path) == False:
-        return
-    file_list = os.listdir(file_path)
-    for file in file_list:
-        if file == ".DS_Store":
-            continue
-        isMember = False
-        for m in member:
-            if m in file:
-                isMember = True
-                count = problem_count.get(m) or 0
-                problem_count[m] = count + 1
 
+def get_formatted_dir_path(day):
+    return "./{0}".format(day.strftime("%Y-%m-%d"))
+
+
+def isSourceFile(path):
+    root, extension = os.path.splitext(path)
+    if extension in SOURCE_FILE_EXTENSION:
+        return True
+    return False
+
+
+def add_member_problem_count(member):
+    count = problem_count.get(member) or 0
+    problem_count[member] = count + 1
+
+
+def check_day_member(file_list):
+    for file in file_list:
+        for member in MEMBER_LIST:
+            if member in file:
+                add_member_problem_count(member)
+
+
+def filter_not_included_member(file_list):
+    filtered_list = []
+    for file in file_list:
+        isMember = False
+        for member in MEMBER_LIST:
+            if member in file:
+                isMember = True
+                filtered_list.append(member)
         if not isMember:
             print("없는 멤버입니다 {0}".format(file))
+    return filtered_list
+
 
 def input_date():
-    to_date = sys.argv[1]
-    return to_date
+    return sys.argv[1]
 
-def get_date_list(date: dt.date, days: int):
-    lst = [date]
-    for i in range(days):
-        date += dt.timedelta(days=1)
-        lst.append(date)
+
+def get_date_list(start_date: dt.date, n_days: int):
+    lst = [start_date]
+    for i in range(n_days):
+        start_date += dt.timedelta(days=1)
+        lst.append(start_date)
     return lst
 
-def main():
-    to_date_str = input_date()
-    to_date = Date(to_date_str)
 
+def get_source_file_list(dir_path):
+    file_list = os.listdir(dir_path)
+    return list(filter(isSourceFile, file_list))
+
+
+def is_path_exist(dir_path):
+    return os.path.exists(dir_path)
+
+
+def main():
+    to_date = Date(input_date())
     t = dt.date(to_date.year, to_date.month, to_date.day)
     date_list = get_date_list(t, 6)
     for day in date_list:
-        check_day_member(day)
+        dir_path = get_formatted_dir_path(day)
+        if is_path_exist(dir_path) == False:
+            continue
+        source_file_list = get_source_file_list(dir_path)
+        member_source_file_list = filter_not_included_member(source_file_list)
+        check_day_member(member_source_file_list)
     print(problem_count)
 
 
 if __name__ == '__main__':
-  if len(sys.argv) == 2:
-    main()
-  else:
-    print('compute.py yyyy-mm-dd')
+    if len(sys.argv) == 2:
+        main()
+    else:
+        print('compute.py yyyy-mm-dd')
