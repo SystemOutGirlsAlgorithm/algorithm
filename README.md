@@ -9,13 +9,13 @@
 - **Yoou** 🐧 [(yoouyeon)](https://github.com/yoouyeon)
   - 한 주에 1문제 풀기
 - **Marvy** 🕶️ [(Jyeonni)](https://github.com/Jyeonni)
-  - 한 주에 1문제 이상 풀기 -> 6월 3주차부터 참여하겠습니다💪
+  - 한 주에 1문제 이상 풀기
 - **Muer** ☁ [(Areuma)](https://github.com/AReuma)
   - 한 주에 3문제 이상 풀기
 - **미도리** 👻 [(daybydoris)](https://github.com/daybydoris)
   - 한 주에 1문제 이상 풀기
 - **Beankong** 🌊 [(beankong-github)](https://github.com/beankong-github)
-  - 한 문제라도 풀기
+  - 한 주에 1문제라도 풀기
 - **안잉** ❄️ [(ppmyor)](https://github.com/ppmyor)
   - 한 주에 5문제 이상 풀기
 - **라임민트** S2 [(EssLemint)](https://github.com/EssLemint)

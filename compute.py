@@ -6,6 +6,7 @@ import sys
 MEMBER_LIST = ["말감", "진도", "Yoou", "Marvy", "Muer", "미도리", "Beankong", "안잉", "라임민트", "유감", "Jedi", "OoO", "룰루", "yoon", "dyno0o", "한딱", "Soyou", "서나", "hoodu"]
 SOURCE_FILE_EXTENSION = [".java", ".cpp", ".js", ".scala", ".py", ".c"]
 
+problem_count_info = {}
 problem_count = {}
 
 class Date:
@@ -53,7 +54,7 @@ def filter_not_included_member(file_list):
     for file in file_list:
         isMember = False
         for member in MEMBER_LIST:
-            if member in file:
+            if member[:2] in file:
                 isMember = True
                 filtered_list.append(member)
         if not isMember:
@@ -82,10 +83,61 @@ def is_path_exist(dir_path):
     return os.path.exists(dir_path)
 
 
+def create_directory(month):
+    directory = str(month)+'월'
+    try:
+        if not os.path.exists(directory):
+            os.makedirs(directory)    
+    except OSError:
+        print('폴더를 만드는 데 실패했습니다.')
+
+def get_memebers_goal(month):
+    file = open('README.md','r')
+    while True:
+        line = file.readline()
+        if not line:
+            break
+        if '## 진행 방식' in line:
+            break
+        if '# System.out.girls 알고리즘 스터디' in line:
+            line = '# ' +str(month)+'월\n'
+        if f'## {month}월 스터디원' in line:
+            line = '## 참여 인원\n'
+        if line.startswith('-'):
+            name = get_member_name(line)
+        if line.startswith('  -'):
+            get_member_goal(line, name)
+
+        with open(f'{month}월/README.md','a') as new_file:
+            new_file.writelines(line)
+    file.close()
+
+
+import re
+def get_member_name(line):
+    l = line.split('**')
+    name = l[2].split(' ')[1] +' '+l[1] 
+    return name
+
+def get_member_goal(line, name):
+    problem_number = re.sub(r'[^0-9]', '', line)
+    problem_count_info[name] = problem_number
+
+
+def count_solved_problems():
+    pass
+
+
+
 def main():
     to_date = Date(input_date())
     t = dt.date(to_date.year, to_date.month, to_date.day)
-    date_list = get_date_list(t, 6)
+
+    if not is_path_exist(str(to_date.month)+'월/README.md'):
+        get_memebers_goal(to_date.month)
+
+
+    date_list = get_date_list(t, to_date.month)
     for day in date_list:
         dir_path = get_formatted_dir_path(day)
         if is_path_exist(dir_path) == False:
@@ -93,6 +145,7 @@ def main():
         source_file_list = get_source_file_list(dir_path)
         member_source_file_list = filter_not_included_member(source_file_list)
         check_day_member(member_source_file_list)
+    create_directory(to_date.month)
     print(problem_count)
 
 
