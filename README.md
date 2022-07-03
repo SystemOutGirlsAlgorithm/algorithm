@@ -40,7 +40,8 @@
   - 한 주에 2문제 이상 풀기
 - **hoodu** 🐱 [(heyoni)](https://github.com/heyoni)
   - 한 주에 3문제 이상 풀기
-
+- **김연못** 🌿 [(t1g2r)](https://github.com/t1g2r)
+  - 한 주에 3문제 이상 풀기
 ## 진행 방식
 
 - 문제를 푼다!
