@@ -17,7 +17,7 @@
 - **dyno0o** 🦕 [(soraennon)](https://github.com/soraennon)
   - 한 주에 3문제 이상 풀기
 - **서나** 🔥 [(Soeun0218)](https://github.com/Soeun0218)
-  - 한 주에 2문제 이상 풀기
+  - 알고리즘 기초 강의 한 주에 5강 수강하고 커밋하기
 - **김연못** 🌿 [(t1g2r)](https://github.com/t1g2r)
   - 한 주에 5문제 이상 풀기
 - **Hyun** 🍋 [(Hyunyounglee27)](https://github.com/hyunyounglee27)
