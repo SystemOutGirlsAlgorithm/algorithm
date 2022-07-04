@@ -28,6 +28,8 @@
   - 한 주에 3문제 이상 풀기
 - **차미** 💾 [(charmleesb)](https://github.com/charmleesb)
   - 한 주에 2문제 이상 풀기
+  - **파도** 🌊 [(MIINII)](https://github.com/MIINII)
+  - 한 주에 4문제 이상 풀기
   
 ## 진행 방식
 
