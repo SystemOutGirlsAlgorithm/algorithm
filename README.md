@@ -32,6 +32,8 @@
   - 한 주에 4문제 이상 풀기
 - **yeonjiyeon** 🌟 [(yeonjiyeon)](https://github.com/yeonjiyeon)
   - 한 주에 6문제 이상 풀기
+- **봉봉** 🌱 [(tlsdhsdb)](https://github.com/tlsdhsdb)
+  - 한 주에 2문제 이상 풀기 
   
 ## 진행 방식
 
