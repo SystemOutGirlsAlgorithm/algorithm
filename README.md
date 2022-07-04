@@ -26,7 +26,9 @@
   - 한 주에 3문제 이상 풀기
 - **가지덮밥** 🍆 [(jooh9992)](https://github.com/jooh9992)
   - 한 주에 3문제 이상 풀기
-
+- **차미** 💾 [(charmleesb)](https://github.com/charmleesb)
+  - 한 주에 2문제 이상 풀기
+  
 ## 진행 방식
 
 - 문제를 푼다!
