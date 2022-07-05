@@ -22,7 +22,7 @@
   - 한 주에 5문제 이상 풀기
 - **Hyun** 🍋 [(Hyunyounglee27)](https://github.com/hyunyounglee27)
   - 한 주에 2문제 이상 풀기
-- **집** 🐈‍⬛ [(home0712)](https://github.com/home0712)
+- **집** 🐈 [(home0712)](https://github.com/home0712)
   - 한 주에 3문제 이상 풀기
 - **가지덮밥** 🍆 [(jooh9992)](https://github.com/jooh9992)
   - 한 주에 3문제 이상 풀기
