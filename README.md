@@ -9,7 +9,7 @@
 - **Yoou** 🐧 [(yoouyeon)](https://github.com/yoouyeon)
   - 한 주에 1문제 풀기
 - **Marvy** 🕶️ [(Jyeonni)](https://github.com/Jyeonni)
-  - 한 주에 1문제 이상 풀기 -> 6월 3주차부터 참여하겠습니다💪
+  - 한 주에 1문제 이상 풀기
 - **안잉** ❄️ [(ppmyor)](https://github.com/ppmyor)
   - 한 주에 5문제 이상 풀기
 - **라임민트** S2 [(EssLemint)](https://github.com/EssLemint)
@@ -91,3 +91,8 @@
   - 프로그래머스 약수의 합
   - 프로그래머스 시저 암호
   - 프로그래머스 문자열을 정수로 바꾸기
+
+### 7월 8일
+
+- 진도 🧶
+  - 백준 11758
