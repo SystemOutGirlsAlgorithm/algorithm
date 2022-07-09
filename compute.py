@@ -3,7 +3,7 @@ import os
 import re
 import sys
 
-MEMBER_LIST = ["🎱 말감", "🧶 진도", "🐧 Yoou", "🕶️ Marvy", "☁ Muer", "👻 미도리", "🌊 Beankong", "❄️ 안잉", "S2 라임민트", "🍒 유감", "🖖 Jedi", "🐯 OoO", "🎈 룰루", "⛄ yoon", "🦕 dyno0o", "🐋 한딱", "🌈 Soyou", "🔥 서나", "🐱 hoodu"]
+MEMBER_LIST = []
 SOURCE_FILE_EXTENSION = [".java", ".cpp", ".js", ".scala", ".py", ".c"]
 
 members_goal = {}
@@ -110,9 +110,9 @@ def get_or_write_memebers_goal(month_name):
 
             if line.startswith('-'):
                 name = get_member_name(line)
+                save_member_list(name)
             elif line.startswith('  -'):
                 save_member_goal(line, name)
-
             with open(f'{month_name}/README.md','a') as new_file:
                 new_file.writelines(line)
 
@@ -125,9 +125,9 @@ def get_or_write_memebers_goal(month_name):
                 break
             if line.startswith('-'):
                 name = get_member_name(line)
+                save_member_list(name)
             elif line.startswith('  -'):
                 save_member_goal(line, name)
-            
     file.close()
 
 
@@ -145,6 +145,9 @@ def save_member_goal(line, name):
     members_goal[name] = get_member_goal(line)
 
 
+def save_member_list(name):
+    MEMBER_LIST.append(name)
+
 def set_week_number(month_name, day):
     week = day // 7 + 1
     title = f'### {month_name} {week}주\n\n'
@@ -154,12 +157,10 @@ def set_week_number(month_name, day):
             new_file.writelines('## 목표 달성\n\n')
         new_file.writelines(title)  
 
-    
 
 def get_results():
     result = ''
     for key in members_goal:
-        
         problem_num = problem_count.get(key) or '0'
 
         result += key + '(' + str(members_goal[key]) + ') ' + str(problem_num)
