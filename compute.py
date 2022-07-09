@@ -3,10 +3,10 @@ import os
 import re
 import sys
 
-MEMBER_LIST = ["말감", "진도", "Yoou", "Marvy", "Muer", "미도리", "Beankong", "안잉", "라임민트", "유감", "Jedi", "OoO", "룰루", "yoon", "dyno0o", "한딱", "Soyou", "서나", "hoodu"]
+MEMBER_LIST = ["🎱 말감", "🧶 진도", "🐧 Yoou", "🕶️ Marvy", "☁ Muer", "👻 미도리", "🌊 Beankong", "❄️ 안잉", "S2 라임민트", "🍒 유감", "🖖 Jedi", "🐯 OoO", "🎈 룰루", "⛄ yoon", "🦕 dyno0o", "🐋 한딱", "🌈 Soyou", "🔥 서나", "🐱 hoodu"]
 SOURCE_FILE_EXTENSION = [".java", ".cpp", ".js", ".scala", ".py", ".c"]
 
-problem_count_info = {}
+members_goal = {}
 problem_count = {}
 
 class Date:
@@ -54,7 +54,8 @@ def filter_not_included_member(file_list):
     for file in file_list:
         isMember = False
         for member in MEMBER_LIST:
-            if member[:2] in file:
+            member_name = member.split(' ')[1]
+            if member_name in file:
                 isMember = True
                 filtered_list.append(member)
         if not isMember:
@@ -83,71 +84,120 @@ def is_path_exist(dir_path):
     return os.path.exists(dir_path)
 
 
-def create_directory(month):
-    directory = str(month)+'월'
+def create_directory(directory):
     try:
         if not os.path.exists(directory):
             os.makedirs(directory)    
     except OSError:
         print('폴더를 만드는 데 실패했습니다.')
 
-def get_memebers_goal(month):
-    file = open('README.md','r')
-    while True:
-        line = file.readline()
-        if not line:
-            break
-        if '## 진행 방식' in line:
-            break
-        if '# System.out.girls 알고리즘 스터디' in line:
-            line = '# ' +str(month)+'월\n'
-        if f'## {month}월 스터디원' in line:
-            line = '## 참여 인원\n'
-        if line.startswith('-'):
-            name = get_member_name(line)
-        if line.startswith('  -'):
-            get_member_goal(line, name)
 
-        with open(f'{month}월/README.md','a') as new_file:
-            new_file.writelines(line)
+def get_or_write_memebers_goal(month_name):
+    file = open('README.md','r')
+
+    if not is_path_exist(month_name+'/README.md'):
+        while True:
+            line = file.readline()
+
+            if not line:
+                break
+            if '## 진행 방식' in line:
+                break
+            elif '# System.out.girls 알고리즘 스터디' in line:
+                line = '# ' +month_name+'\n'
+            elif f'## {month_name} 스터디원' in line:
+                line = '## 참여 인원\n'
+
+            if line.startswith('-'):
+                name = get_member_name(line)
+            elif line.startswith('  -'):
+                save_member_goal(line, name)
+
+            with open(f'{month_name}/README.md','a') as new_file:
+                new_file.writelines(line)
+
+    else:
+        while True:
+            line = file.readline()
+            if not line:
+                break
+            if '## 진행 방식' in line:
+                break
+            if line.startswith('-'):
+                name = get_member_name(line)
+            elif line.startswith('  -'):
+                save_member_goal(line, name)
+            
     file.close()
 
 
-import re
 def get_member_name(line):
     l = line.split('**')
     name = l[2].split(' ')[1] +' '+l[1] 
     return name
 
-def get_member_goal(line, name):
-    problem_number = re.sub(r'[^0-9]', '', line)
-    problem_count_info[name] = problem_number
+
+def get_member_goal(line):
+    return re.sub(r'[^0-9]', '', line)
 
 
-def count_solved_problems():
-    pass
+def save_member_goal(line, name):
+    members_goal[name] = get_member_goal(line)
+
+
+def set_week_number(month_name, day):
+    week = day // 7 + 1
+    title = f'### {month_name} {week}주\n\n'
+
+    with open(f'{month_name}/README.md','a') as new_file:
+        if week == 1:
+            new_file.writelines('## 목표 달성\n\n')
+        new_file.writelines(title)  
+
+    
+
+def get_results():
+    result = ''
+    for key in members_goal:
+        
+        problem_num = problem_count.get(key) or '0'
+
+        result += key + '(' + str(members_goal[key]) + ') ' + str(problem_num)
+        if int(problem_num) >= int(members_goal[key]):
+            result += ' 🏅'
+        result += '\n'
+    return result
+
+
+def write_results(month_name, day):
+    set_week_number(month_name, day)
+    result = get_results()
+
+    with open(f'{month_name}/README.md','a') as new_file:
+        new_file.writelines(result) 
+        new_file.writelines('\n') 
 
 
 
 def main():
-    to_date = Date(input_date())
-    t = dt.date(to_date.year, to_date.month, to_date.day)
+    start_date_of_week = Date(input_date())
+    t = dt.date(start_date_of_week.year, start_date_of_week.month, start_date_of_week.day)
+    month_name = str(start_date_of_week.month)+'월'
 
-    if not is_path_exist(str(to_date.month)+'월/README.md'):
-        get_memebers_goal(to_date.month)
+    get_or_write_memebers_goal(month_name)
 
-
-    date_list = get_date_list(t, to_date.month)
+    date_list = get_date_list(t, start_date_of_week.month)
     for day in date_list:
         dir_path = get_formatted_dir_path(day)
         if is_path_exist(dir_path) == False:
             continue
         source_file_list = get_source_file_list(dir_path)
         member_source_file_list = filter_not_included_member(source_file_list)
+        
         check_day_member(member_source_file_list)
-    create_directory(to_date.month)
-    print(problem_count)
 
+    create_directory(month_name)
+    write_results(month_name, start_date_of_week.day)
 
 if __name__ == '__main__':
     if len(sys.argv) == 2:
