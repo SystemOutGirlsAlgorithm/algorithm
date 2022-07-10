@@ -42,4 +42,6 @@ jobs:
           date
       
       - name: run py script
-        run: python compute.py $(date '+%YYYY-%mm-%dd')
+        run: |
+        echo date
+        python compute.py $(date '+%YYYY-%mm-%dd')
