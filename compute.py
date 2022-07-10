@@ -185,8 +185,6 @@ def main():
     t = dt.date(start_date_of_week.year, start_date_of_week.month, start_date_of_week.day)
     month_name = str(start_date_of_week.month)+'월'
 
-    get_or_write_memebers_goal(month_name)
-
     date_list = get_date_list(t, start_date_of_week.month)
     for day in date_list:
         dir_path = get_formatted_dir_path(day)
@@ -198,6 +196,7 @@ def main():
         check_day_member(member_source_file_list)
 
     create_directory(month_name)
+    get_or_write_memebers_goal(month_name)
     write_results(month_name, start_date_of_week.day)
 
 if __name__ == '__main__':
