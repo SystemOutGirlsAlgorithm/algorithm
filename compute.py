@@ -181,7 +181,7 @@ def get_results(members_goal):
     for key in members_goal:
         problem_num = problem_count.get(key) or '0'
 
-        result += key + '(' + str(members_goal[key]) + ') ' + str(problem_num)
+        result += '- ' + key + '(' + str(members_goal[key]) + ') ' + str(problem_num)
         if int(problem_num) >= int(members_goal[key]):
             result += ' 🏅'
         result += '\n'
