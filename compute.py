@@ -164,11 +164,20 @@ def calc_week_number(day):
     return day // 7 + 1
     
 
+def week_number_exist(month_name, title):
+    md_file = read_file(f'{month_name}/README.md')
+    md_file_str = md_file.read()
+    md_file.close()  
+    if title in md_file_str:
+        return True
 
 
 def set_week_number(month_name, day):
     week = calc_week_number(day)
     title = f'### {month_name} {week}주\n\n'
+
+    if week_number_exist(month_name, title) == True:
+        return False
 
     with open(f'{month_name}/README.md','a') as new_file:
         if week == 1:
@@ -188,9 +197,11 @@ def get_results(members_goal):
     return result
 
 
-def write_results(month_name, day):
-    set_week_number(month_name, day)
-    result = get_results()
+def write_results(month_name, day, members_goal):
+    if set_week_number(month_name, day) == False:
+        return
+    else:
+        result = get_results(members_goal)
 
     with open(f'{month_name}/README.md','a') as new_file:
         new_file.writelines(result) 
