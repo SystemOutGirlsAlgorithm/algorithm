@@ -3,7 +3,7 @@ import os
 import re
 import sys
 
-MEMBER_LIST = ["말감", "진도", "Yoou", "Marvy", "Muer", "미도리", "Beankong", "안잉", "라임민트", "유감", "Jedi", "OoO", "룰루", "yoon", "dyno0o", "한딱", "Soyou", "서나", "hoodu"]
+MEMBER_LIST = ["말감", "진도", "Yoou", "Marvy",  "안잉", "라임민트", "dyno0o", "서나", "김연못", "Hyun", "집", "가지덮밥", "차미", "파도", "yeonjiyeon", "봉봉", "ramu", "두괴풋"]
 SOURCE_FILE_EXTENSION = [".java", ".cpp", ".js", ".scala", ".py", ".c"]
 
 problem_count = {}
