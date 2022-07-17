@@ -1,0 +1,41 @@
+name: write_README.md_file
+
+on:
+  schedule:
+    - cron: '0 15 * * 0'  # Every Sunday, 15:00 UTC (== Monday 00:00 KST)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8.9'
+
+      # 현재 날짜 받아오기
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+      
+      # 스크립트 실행하기
+      - name: run py script
+        run: python compute.py ${{ steps.date.outputs.date }}
+
+      # 커밋
+      - name: commit files 
+        run: |
+          git config --local user.email "algo@prompt412.xyz"
+          git config --local user.name "algo bot"
+          git add -A
+          git commit -m "Update weekly README.md"
+      
+      #푸시
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.TOKEN }}
+          branch: main 
