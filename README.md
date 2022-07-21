@@ -34,7 +34,7 @@
   - 한 주에 6문제 이상 풀기
 - **봉봉** 🌱 [(tlsdhsdb)](https://github.com/tlsdhsdb)
   - 한 주에 2문제 이상 풀기
-- **ramu** 💘 [(tlsdhsdb)](https://github.com/tlsdhsdb)
+- **ramu** 💘 [(RamSSi)](https://github.com/RamSSi)
   - 한 주에 3문제 이상 풀기
 - **두괴풋** 💎 [(developerjessie)](https://github.com/developerjessie)
   - 한 주에 3문제 이상 풀기
@@ -242,4 +242,5 @@
 
 ### 7월 21일
 
-- 백준 11725 트리의 부모 찾기
+- ramu 💘
+  - 백준 11725 트리의 부모 찾기
