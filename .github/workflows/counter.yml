@@ -28,7 +28,7 @@ jobs:
       # 커밋
       - name: commit files 
         run: |
-          git config --local user.email "algo@prompt412.xyz"
+          git config --local user.email "system.out.girls@test.com"
           git config --local user.name "algo bot"
           git add -A
           git commit -m "Update weekly README.md"
