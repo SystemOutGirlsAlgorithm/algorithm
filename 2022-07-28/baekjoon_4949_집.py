@@ -1,3 +1,6 @@
+import sys
+
+
 # stack or hash?
 
 # n 이 주어졌을 때 시간단축 가능
