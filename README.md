@@ -315,3 +315,9 @@
   - 백준 6778 Which Alien?
 - 안잉 ❄️
   - 프로그래머스 두개 뽑아서 더하기
+
+### 7월 28일
+
+- 집 🐈
+  - 백준 4949 The Balance of the World
+
