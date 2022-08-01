@@ -48,7 +48,7 @@
   - 한 주에 3문제 이상 풀기
 - **뚜룽지** 🌦 [(led156)](https://github.com/led156)
   - 한 주에 3문제 이상 풀기
-- **뚜망** 👑 [(SuhyungK)](http://github.com/SuhyungK)
+- **뚜망** 🎲 [(SuhyungK)](http://github.com/SuhyungK)
   - 한 주에 5문제 이상 풀기
 - **릴리** 🌌 [(elilly00)](https://github.com/elilly00)
   - 한 주에 문제 이상 풀기
