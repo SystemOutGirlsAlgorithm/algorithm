@@ -50,8 +50,8 @@
   - 한 주에 3문제 이상 풀기
 - **뚜망** 👑 [(SuhyungK)](http://github.com/SuhyungK)
   - 한 주에 5문제 이상 풀기
-
-
+- **릴리** 🌌 [(elilly00)](https://github.com/elilly00)
+  - 한 주에 문제 이상 풀기
 ## 진행 방식
 
 - 문제를 푼다!
