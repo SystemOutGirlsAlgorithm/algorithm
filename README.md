@@ -54,6 +54,9 @@
   - 한 주에 문제 이상 풀기
 - **구름** ☁ [(Knabin)](https://github.com/Knabin)
   - 한 주에 5문제 이상 풀기
+- **별별별** ⭐ [(jmnl225)](https://github.com/jmnl225)
+  - 한 주에 2문제 이상 풀기
+
 ## 진행 방식
 
 - 문제를 푼다!
