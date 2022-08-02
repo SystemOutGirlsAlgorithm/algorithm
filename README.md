@@ -19,7 +19,7 @@
 - **서나** 🔥 [(Soeun0218)](https://github.com/Soeun0218)
   - 한 주에 2문제 이상 풀기
 - **김연못** 🌿 [(t1g2r)](https://github.com/t1g2r)
-  - 한 주에 5문제 이상 풀기
+  - 한 주에 2문제 이상 풀기
 - **hyun** 🍋 [(Hyunyounglee27)](https://github.com/hyunyounglee27) ✅
   - 한 주에 2문제 이상 풀기
 - **집** 🐈 [(home0712)](https://github.com/home0712)
