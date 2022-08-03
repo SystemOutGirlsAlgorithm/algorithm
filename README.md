@@ -51,7 +51,7 @@
 - **뚜망** 🎲 [(SuhyungK)](http://github.com/SuhyungK)
   - 한 주에 5문제 이상 풀기
 - **릴리** 🌌 [(elilly00)](https://github.com/elilly00)
-  - 한 주에 문제 이상 풀기
+  - 한 주에 2문제 이상 풀기
 - **구름** ☁ [(Knabin)](https://github.com/Knabin)
   - 한 주에 5문제 이상 풀기
 - **별별별** ⭐ [(jmnl225)](https://github.com/jmnl225)
