@@ -1,0 +1,17 @@
+## 1927 최소 힙
+## https://www.acmicpc.net/problem/1927
+
+import sys, heapq
+input = sys.stdin.readline
+n = int(input())
+x = []
+
+for i in range(n):
+    temp = int(input())
+    if temp != 0:           # 배열에 넣는다.
+        heapq.heappush(x, temp)
+    else:
+        if not x:           # 비어있는 경우 0 출력
+            print(0)
+        else:               # 가장 작은 값을 출력하고, 배열에서 제거
+            print(heapq.heappop(x))
