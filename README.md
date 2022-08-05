@@ -60,7 +60,9 @@
   - 한 주에 5문제 이상 풀기
 - **밍** ✨ [(hgyuhyeon)](https://github.com/hgyuhyeon)
   - 한 주에 2문제 이상 풀기
-
+- **Muer** ☁ [(Areuma)](https://github.com/AReuma)
+  - 한 주에 2문제 이상 풀기
+  
 ## 진행 방식
 
 - 문제를 푼다!
