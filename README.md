@@ -56,7 +56,7 @@
   - 한 주에 5문제 이상 풀기
 - **별별별** ⭐ [(jmnl225)](https://github.com/jmnl225)
   - 한 주에 2문제 이상 풀기
-- **rozina** 🌹 [(Qkite)](https://github.com/Qkite)
+- **rozina** 🌹 [(Qkite)](https://github.com/Qkite) ✅
   - 한 주에 5문제 이상 풀기
 - **밍** ✨ [(hgyuhyeon)](https://github.com/hgyuhyeon)
   - 한 주에 2문제 이상 풀기
