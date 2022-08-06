@@ -208,9 +208,13 @@ def write_results(month_name, day, members_goal):
         new_file.writelines('\n') 
 
 
+def last_monday(today: dt.date):
+    return today - dt.timedelta(days=today.weekday())
+
 
 def main():
-    start_date_of_week = Date(input_date())
+    today: dt.date = dt.date.today()
+    start_date_of_week = last_monday(today)
     t = dt.date(start_date_of_week.year, start_date_of_week.month, start_date_of_week.day)
     month_name = str(start_date_of_week.month)+'월'
 
@@ -230,7 +234,4 @@ def main():
     write_results(month_name, start_date_of_week.day, members_goal)
 
 if __name__ == '__main__':
-    if len(sys.argv) == 2:
-        main()
-    else:
-        print('compute.py yyyy-mm-dd')
+    main()
