@@ -23,7 +23,7 @@ jobs:
       
       # 스크립트 실행하기
       - name: run py script
-        run: python compute.py ${{ steps.date.outputs.date }}
+        run: python compute.py
 
       # 커밋
       - name: commit files 
