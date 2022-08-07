@@ -62,6 +62,8 @@
   - 한 주에 2문제 이상 풀기
 - **Muer** ☁ [(Areuma)](https://github.com/AReuma)
   - 한 주에 2문제 이상 풀기
+- **연얼** ☁ [(dayeon-alert)](https://github.com/dayeon-alert)
+  - 한 주에 2문제 이상 풀기
   
 <!-- 아래와 같이 목표 추가해주세요! -->
 <!-- (디스코드닉네임) (좋아하는 이모티콘) (깃허브주소) -->
