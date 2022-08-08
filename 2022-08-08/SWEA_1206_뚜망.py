@@ -1,4 +1,4 @@
-for tc in range(10):
+for test_case in range(10):
     view = 0
     n = int(input())
     arr = list(map(int, input().split()))
@@ -15,4 +15,4 @@ for tc in range(10):
         else:
             view += (arr[i] - max(cnt))
 
-    print(f'#{tc+1} {view}')
+    print(f'#{test_case+1} {view}')
