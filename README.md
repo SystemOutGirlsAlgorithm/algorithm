@@ -8,8 +8,6 @@
   - 한 주에 3문제 풀기
 - **Yoou** 🐧 [(yoouyeon)](https://github.com/yoouyeon)
   - 한 주에 1문제 풀기
-- **Marvy** 🕶️ [(Jyeonni)](https://github.com/Jyeonni) ✅
-  - 한 주에 1문제 이상 풀기
 - **안잉** ❄️ [(ppmyor)](https://github.com/ppmyor)
   - 한 주에 5문제 이상 풀기
 - **라임민트** S2 [(EssLemint)](https://github.com/EssLemint)
@@ -20,21 +18,15 @@
   - 한 주에 2문제 이상 풀기
 - **김연못** 🌿 [(t1g2r)](https://github.com/t1g2r)
   - 한 주에 2문제 이상 풀기
-- **hyun** 🍋 [(Hyunyounglee27)](https://github.com/hyunyounglee27) ✅
-  - 한 주에 2문제 이상 풀기
 - **집** 🐈 [(home0712)](https://github.com/home0712)
   - 한 주에 3문제 이상 풀기
 - **가지덮밥** 🍆 [(jooh9992)](https://github.com/jooh9992)
   - 한 주에 3문제 이상 풀기
 - **차미** 💾 [(charmleesb)](https://github.com/charmleesb)
   - 한 주에 1문제 이상 풀기
-- **파도** 🌊 [(MIINII)](https://github.com/MIINII) ✅
-  - 한 주에 4문제 이상 풀기
-- **yeonjiyeon** 🌟 [(yeonjiyeon)](https://github.com/yeonjiyeon) ✅
-  - 한 주에 6문제 이상 풀기
 - **봉봉** 🌱 [(tlsdhsdb)](https://github.com/tlsdhsdb)
   - 한 주에 2문제 이상 풀기
-- **ramu** 💘 [(RamSSi)](https://github.com/RamSSi) ✅
+- **ramu** 💘 [(RamSSi)](https://github.com/RamSSi)
   - 한 주에 3문제 이상 풀기
 - **두괴풋** 💎 [(developerjessie)](https://github.com/developerjessie)
   - 한 주에 3문제 이상 풀기
@@ -56,7 +48,7 @@
   - 한 주에 5문제 이상 풀기
 - **별별별** ⭐ [(jmnl225)](https://github.com/jmnl225)
   - 한 주에 2문제 이상 풀기
-- **rozina** 🌹 [(Qkite)](https://github.com/Qkite) ✅
+- **rozina** 🌹 [(Qkite)](https://github.com/Qkite)
   - 한 주에 5문제 이상 풀기
 - **밍** ✨ [(hgyuhyeon)](https://github.com/hgyuhyeon)
   - 한 주에 2문제 이상 풀기
