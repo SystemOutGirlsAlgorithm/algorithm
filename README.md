@@ -69,6 +69,9 @@
 - 문제를 깃허브에 올린다
 - [문제를 풀고 인증하는 방법 - 자세한 설명](https://github.com/malgamlee/algorithm/wiki/%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%92%80%EA%B3%A0-%EC%9D%B8%EC%A6%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
+(하고싶은 분들은)
+- [fork 후 PR을 날리는 방법](https://github.com/SystemOutGirlsAlgorithm/algorithm/wiki/%EB%A0%88%ED%8F%AC-fork-%ED%95%B4%EC%84%9C-%EC%A7%84%ED%96%89%ED%95%98%EA%B8%B0)
+
 ## 진행 상황
 
 ## 8월 1주
