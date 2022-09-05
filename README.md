@@ -9,7 +9,7 @@
 - **Yoou** 🐧 [(yoouyeon)](https://github.com/yoouyeon)
   - 한 주에 1문제 풀기
 - **안잉** ❄️ [(ppmyor)](https://github.com/ppmyor)
-  - 한 주에 5문제 이상 풀기
+  - 한 주에 2문제 이상 풀기
 - **라임민트** S2 [(EssLemint)](https://github.com/EssLemint)
   - 한 주에 2문제 이상 풀기
 - **dyno0o** 🦕 [(soraennon)](https://github.com/soraennon)
