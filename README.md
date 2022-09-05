@@ -56,7 +56,7 @@
   - 한 주에 2문제 이상 풀기
 - **연얼** 🐥 [(dayeon-alert)](https://github.com/dayeon-alert)
   - 한 주에 2문제 이상 풀기
-- **왕수** 🐥 [(rbqls)](https://github.com/rbqls)
+- **왕수** 🧠 [(rbqls)](https://github.com/rbqls)
   - 한 주에 2문제 이상 풀기
 - **말챠** 🫧 [(aminor32)](https://github.com/aminor32)
   - 한 주에 1문제 이상 풀기
