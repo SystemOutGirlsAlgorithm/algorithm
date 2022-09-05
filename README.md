@@ -62,6 +62,8 @@
   - 한 주에 1문제 이상 풀기
 - **크타 𝒒𝒕𝒂𝒉** 🍉 [(QTAHCHEETAH)](https://github.com/QTAHCHEETAH)
   - 한 주에 2문제 이상 풀기
+- **데뷰밍** 🐯 [(devuming)](https://github.com/devuming)
+  - 한 주에 3문제 이상 풀기
 
 <!-- 아래와 같이 목표 추가해주세요! -->
 <!-- (디스코드닉네임) (좋아하는 이모티콘) (깃허브주소) -->
