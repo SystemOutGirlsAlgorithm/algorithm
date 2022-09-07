@@ -66,7 +66,6 @@
   - 한 주에 3문제 이상 풀기
 - **산도** 🥪 [(ph-value)](https://github.com/ph-value)
   - 한 주에 2문제 이상 풀기
-
 - **퓨퓨** 💙 [(JangAyeon)](https://github.com/JangAyeon)
   - 한 주에 2문제 이상 풀기
   
