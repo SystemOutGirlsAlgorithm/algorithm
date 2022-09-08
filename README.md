@@ -96,7 +96,6 @@
   - 프로그래머스 올바른 괄호
 - 산도 🥪
   - leetcode: Max Consecutive Ones
-  
 - 퓨퓨 💙
   - 백준 15683
   - 백준 18808
