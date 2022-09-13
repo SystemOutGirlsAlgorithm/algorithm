@@ -36,8 +36,6 @@
   - 한 주에 3문제 이상 풀기
 - **율율** 🎠 [(kkyl3)](https://github.com/kkyl3)
   - 한 주에 3문제 이상 풀기
-- **인일** ⚛ [(binarymin)](https://github.com/nineil91)
-  - 한 주에 3문제 이상 풀기
 - **뚜룽지** 🌦 [(led156)](https://github.com/led156)
   - 한 주에 3문제 이상 풀기
 - **뚜망** 🎲 [(SuhyungK)](http://github.com/SuhyungK)
