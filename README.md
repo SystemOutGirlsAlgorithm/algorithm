@@ -218,3 +218,5 @@
 - 산도 🥪
   - leetcode: 1295.Find Numbers with Even Number of Digits
   - leetcode: 977.Squares of a Sorted Array
+- 데뷰밍 🐯
+  - 백준 1193
