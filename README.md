@@ -216,4 +216,5 @@
 - Yoou 🐧
   - 백준 1074
 - 산도 🥪
-  - leetcode: Find Numbers with Even Number of Digits
+  - leetcode: 1295.Find Numbers with Even Number of Digits
+  - leetcode: 977.Squares of a Sorted Array
