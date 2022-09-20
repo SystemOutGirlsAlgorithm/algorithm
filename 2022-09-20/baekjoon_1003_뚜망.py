@@ -1,7 +1,13 @@
-lst = [[10], [1], [2, 4, 8, 6], [3, 9, 7, 1], [4, 6], [5], [6], [7, 9, 3, 1], [8, 4, 2, 6], [9, 1]]
+# 피보나치 수열
+cnt_0 = [0] * 41
+cnt_1 = [0] * 41
+cnt_0[0] = cnt_1[1] = 1
+
+for i in range(2, 41):
+    cnt_0[i] = cnt_0[i-1] + cnt_0[i-2]
+    cnt_1[i] = cnt_1[i-1] + cnt_1[i-2]
+
 T = int(input())
 for _ in range(T):
-    a, b = map(int, input().split())
-    a %= 10
-    b %= len(lst[a])
-    print(lst[a][b-1])
+    n = int(input())
+    print(cnt_0[n], cnt_1[n])
