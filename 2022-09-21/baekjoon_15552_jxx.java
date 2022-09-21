@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Baekjoon_15552 {
+public class baekjoon_15552_jxx {
     public static void main(String[] args) throws IOException {
         // 빠른 A+B
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

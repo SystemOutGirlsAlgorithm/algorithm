@@ -1,4 +1,4 @@
-public class Baekjoon_25083 {
+public class baekjoon_25083_jxx {
     public static void main(String[] args) {
         System.out.println("         ,r'\"7");
         System.out.println("r`-_   ,'  ,/");
