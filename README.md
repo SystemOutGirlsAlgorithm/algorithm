@@ -340,6 +340,6 @@
 
 - 산도 🥪
   - leetcode: 1089.Duplicate Zeros
-  - leetcode: 
+  - leetcode: 88.Merge Sorted Array
 
   
