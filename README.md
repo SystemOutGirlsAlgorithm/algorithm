@@ -341,5 +341,9 @@
 - 산도 🥪
   - leetcode: 1089.Duplicate Zeros
   - leetcode: 88.Merge Sorted Array
+- 영나 💡
+  - 백준 2606
+  - 백준 1197
+  - 백준 10451
 
   
