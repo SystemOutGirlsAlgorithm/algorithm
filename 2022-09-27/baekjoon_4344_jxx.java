@@ -25,8 +25,7 @@ public class baekjoon_4344_jxx {
                     over++;
                 }
             }
-            double ratio = (double) over / a * 100;
-            String ratio2 = String.format("%.3f", ratio);
+            String ratio2 = String.format("%.3f", (double) over / a * 100);
             System.out.println(ratio2 + "%");
 
             sum = 0;
