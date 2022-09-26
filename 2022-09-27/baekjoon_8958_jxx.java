@@ -10,7 +10,7 @@ public class baekjoon_8958_jxx {
 
         for (int i = 0; i < caseNum; i++){
             String ox = br.readLine();
-            String[] arr = ox.split("X");  // x를 기준으로 문자열을 자르고
+            String[] arr = ox.split("X"); // x를 기준으로 문자열을 자르고
             for (int j = 0; j < arr.length; j++){
                 if (!arr[j].equals("")){
                     sum += arr[j].length() * ( arr[j].length()+1 ) / 2;
