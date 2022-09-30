@@ -393,4 +393,5 @@
   - 백준 11403 경로 찾기
   - 프로그래머스 자연수 뒤집어 배열로 만들기
 - 산도 🥪
+  - leetcode: 26.Remove Duplicates from Sorted Array
   - leetcode: 27.Remove Element
