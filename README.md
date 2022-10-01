@@ -395,3 +395,9 @@
 - 산도 🥪
   - leetcode: 26.Remove Duplicates from Sorted Array
   - leetcode: 27.Remove Element
+  
+### 10월 1일
+  
+- 밍 ✨
+  - leetcode 205
+  - leetcode 392
