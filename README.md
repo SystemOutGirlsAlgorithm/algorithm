@@ -395,3 +395,12 @@
 - 산도 🥪
   - leetcode: 26.Remove Duplicates from Sorted Array
   - leetcode: 27.Remove Element
+  
+### 10월 1일
+  
+- 밍 ✨
+  - leetcode 205
+  - leetcode 392
+- Yoou 🐧
+  - 백준 7569 토마토
+  - 프로그래머스 문자열 내 p와 y의 개수
