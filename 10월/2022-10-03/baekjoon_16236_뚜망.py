@@ -1,5 +1,4 @@
-import sys
-sys.stdin = open('test.txt')
+# 16236 - 아기상어
 
 def bfs(start):
     global time
