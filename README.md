@@ -7,7 +7,7 @@
 - **진도** 🧶 [(mimseong)](https://github.com/mimseong)
   - 한 주에 3문제 풀기
 - **Yoou** 🐧 [(yoouyeon)](https://github.com/yoouyeon)
-  - 한 주에 1문제 풀기
+  - 한 주에 7문제 풀기
 - **안잉** ❄️ [(ppmyor)](https://github.com/ppmyor)
   - 한 주에 2문제 이상 풀기
 - **라임민트** S2 [(EssLemint)](https://github.com/EssLemint) ✅
