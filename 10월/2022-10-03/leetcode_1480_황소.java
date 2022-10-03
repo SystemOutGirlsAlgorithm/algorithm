@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class leetcode_1480_황소 { // RunningSumOf1DArray_1480
+public class leetcode_1480_황소 { // 문제: RunningSumOf1DArray_1480
 
     public static void main(String[] args) {
         int[] nums = {1, 2, 3, 4};
