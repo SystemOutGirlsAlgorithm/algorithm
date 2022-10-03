@@ -104,3 +104,5 @@
   - leetcode 234
 - 황소 :four_leaf_clover:
   - leetcode 1480
+- 뚜망 🎲
+  - 백준 16236
