@@ -55,7 +55,7 @@
 - **연얼** 🐥 [(dayeon-alert)](https://github.com/dayeon-alert) ✅
   - 한 주에 2문제 이상 풀기
 - **왕수** 🧠 [(rbqls)](https://github.com/rbqls) ✅
-  - 한 주에 2문제 이상 풀기 
+  - 한 주에 2문제 이상 풀기
 - **말챠** 🫧 [(aminor32)](https://github.com/aminor32) ✅
   - 한 주에 1문제 이상 풀기
 - **크타 𝒒𝒕𝒂𝒉** 🍉 [(QTAHCHEETAH)](https://github.com/QTAHCHEETAH) ✅
@@ -112,3 +112,6 @@
   - 백준 16236
 - Yoou 🐧
   - 백준 16928
+- 팥밥 🏄‍♂️
+  - leetcode 1
+  - 프로그래머스 3진법 뒤집기
