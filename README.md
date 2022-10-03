@@ -100,3 +100,5 @@
 - 밍 ✨
   - leetcode 142
   - leetcode 234
+- 황소 :four_leaf_clover:
+  - leetcode 1480
