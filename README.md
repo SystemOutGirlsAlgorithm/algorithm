@@ -122,10 +122,9 @@
 
 - 윰리 :full_moon:
   - 백준 10825
-  
 - 이트 🎢
   - programmers 숫자 만자열과 영단어
-  - programmers [1차]  
+  - programmers [1차]
 - 밍 ✨
   - leetcode 121
   - leetcode 409
@@ -134,3 +133,6 @@
   - 백준 14712
 - Yoou 🐧
   - 백준 9019
+- 팥밥 🏄‍♂️
+  - 프로그래머스 숫자의 표현
+  - 프로그래머스 피보나치 수
