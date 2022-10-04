@@ -126,3 +126,6 @@
 - 이트 🎢
   - programmers 숫자 만자열과 영단어
   - programmers [1차]  
+- 밍 ✨
+  - leetcode 121
+  - leetcode 409
