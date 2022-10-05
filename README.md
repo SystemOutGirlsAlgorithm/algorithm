@@ -86,7 +86,7 @@
   - 한 주에 2문제 이상 풀기
 - **따뜻한페퍼민트** 🫖 [(Cindy-Cho)](https://github.com/cindy-cho)
   - 한 주에 3문제 이상 풀기
-- **빨강** :bug: [(seonmikimm)]((https://github.com/seonmikimm)
+- **빨강** :bug: [(seonmikimm)](https://github.com/seonmikimm)
   - 한 주에 1문제 이상 풀기
 
 <!-- 아래와 같이 목표 추가해주세요! -->
