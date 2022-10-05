@@ -144,3 +144,7 @@
 
 - 윰리 :full_moon:
   - 백준 1920
+- 밍 ✨
+  - leetcode 589
+  - leetcode 102
+  
