@@ -6,4 +6,4 @@ function solution(n) {
     str = arr.join('');
     answer = Number(str);
     return answer;
-}ㄴ
+}
