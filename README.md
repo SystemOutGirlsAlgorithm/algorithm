@@ -190,3 +190,5 @@
 - 밍 ✨
   - leetcode 98
   - leetcode 235
+- 황소 🍀
+  - leetcode 412
