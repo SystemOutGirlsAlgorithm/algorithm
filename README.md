@@ -203,3 +203,5 @@
 - 밍 ✨
   - leetcode 733
   - leetcode 200
+- 윰리 :full_moon:
+  - 백준 1932
