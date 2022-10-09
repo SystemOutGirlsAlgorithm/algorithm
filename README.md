@@ -221,3 +221,6 @@
   - leetcode 876
   - leetcode 383
   - leetcode 653
+- 밍 ✨
+  - leetcode 509
+  - leetcode 70
