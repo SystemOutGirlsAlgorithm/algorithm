@@ -9,6 +9,7 @@ public class leetcode_876_Middle Node of a Linked List - 황소 {
 
     public static ListNode middleNode(ListNode head) {
         ListNode answer = head, advanceSquad = head; // 문제에서 요구하는 건 "1/2" 기준이니 advanceSquad는 answer보다 2배 빠른 속도라고 생각
+
         while (advanceSquad != null && advanceSquad.next != null) {
             answer = answer.next;
             advanceSquad = advanceSquad.next.next;
