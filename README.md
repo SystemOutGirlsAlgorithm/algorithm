@@ -266,3 +266,10 @@
   - leetcode 424
 - 황소 🍀
   - leetcode 237
+
+### 10월 14일
+
+- 밍 ✨
+  - leetcode 1046
+  - leetcode 692
+  - leetcode 299
