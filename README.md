@@ -280,3 +280,10 @@
   - 프로그래머스 숫자 비교하기
 - 황소 🍀
   - leetcode 2095
+
+### 10월 15일
+
+- 밍 ✨
+  - leetcode 202
+  - leetcode 54
+  - leetcode 1706
