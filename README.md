@@ -307,3 +307,5 @@
   - leetcode 19
 - 황소 🍀
   - leetcode 1832
+- jxx 🐋
+  - 백준 1157
