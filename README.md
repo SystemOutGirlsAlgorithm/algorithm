@@ -305,3 +305,5 @@
 - 밍 ✨
   - leetcode 14
   - leetcode 19
+- 황소 🍀
+  - leetcode 1832
