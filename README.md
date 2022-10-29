@@ -463,3 +463,5 @@
 - 윰리 :full_moon:
   - 프로그래머스 삼총사
   - leetcode 39.Combination Sum
+- jxx 🐋
+  - 백준 2941
