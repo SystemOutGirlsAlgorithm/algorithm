@@ -478,3 +478,7 @@
 
 - jxx 🐋
   - 백준 10807
+- 밍 ✨
+  - leetcode 621
+  - leetcode 100
+  - leetcode 101
