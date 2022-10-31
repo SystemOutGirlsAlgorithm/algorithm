@@ -482,3 +482,6 @@
   - leetcode 621
   - leetcode 100
   - leetcode 101
+- 팥밥 🏄‍♂️
+  - 프로그래머스 특정 문자 제거하기
+  - leetcode 13.Roman to Integer
