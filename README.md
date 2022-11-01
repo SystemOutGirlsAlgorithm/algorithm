@@ -495,3 +495,5 @@
 - 팥밥 🏄‍♂️
   - 프로그래머스 최댓값 만들기1
   - leetcode 14.Longest Common Prefix
+- Yoou 🐧
+  - 백준 1967 트리의 지름
