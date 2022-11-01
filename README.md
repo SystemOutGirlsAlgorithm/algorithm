@@ -492,3 +492,6 @@
 
 - jxx 🐋
   - 백준 1316
+- 팥밥 🏄‍♂️
+  - 프로그래머스 최댓값 만들기1
+  - leetcode 14.Longest Common Prefix
