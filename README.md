@@ -497,3 +497,9 @@
   - leetcode 14.Longest Common Prefix
 - Yoou 🐧
   - 백준 1967 트리의 지름
+
+### 11월 2일
+
+- 팥밥 🏄‍♂️
+  - 프로그래머스 문자열안에 문자열
+  - leetcode 26.Remove Duplicates from Sorted Array
