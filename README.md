@@ -503,7 +503,7 @@
 - 팥밥 🏄‍♂️
   - 프로그래머스 문자열안에 문자열
   - leetcode 26.Remove Duplicates from Sorted Array
-- Yoou
+- Yoou 🐧
   - 백준 2206 벽 부수고 이동하기
 
 ### 11월 3일
@@ -511,3 +511,5 @@
 - 팥밥 🏄‍♂️
   - leet code 20.Valid Parentheses
   - 프로그래머스 인덱스 바꾸기
+- Yoou 🐧
+  - 백준 11404 플로이드 
