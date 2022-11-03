@@ -505,3 +505,9 @@
   - leetcode 26.Remove Duplicates from Sorted Array
 - Yoou
   - 백준 2206 벽 부수고 이동하기
+
+### 11월 3일
+
+- 팥밥 🏄‍♂️
+  - leet code 20.Valid Parentheses
+  - 프로그래머스 인덱스 바꾸기
