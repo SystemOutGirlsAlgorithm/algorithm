@@ -542,9 +542,12 @@
   - leetcode 27.remove element
 - Yoou 🐧
   - 백준 1918 후위표기식
-  
 
 ### 11월 6일
 
 - 윰리 :full_moon:
   - 프로그래머스 JadenCase 문자열 만들기
+- 팥밥 🏄‍♂️
+  - leetcode 35.Search Insert Position
+  - 프로그래머스 분수의 덧셈
+  - 프로그래머스 두수의 나눗셈
