@@ -1,0 +1,37 @@
+//완전탐색 : 중복 없이 모든 경우의 수
+import java.util.*;
+
+class Solution {
+    public int[] solution(int[] numbers) {
+        int[] answer = {};
+        
+        //정렬
+        Arrays.sort(numbers);
+        //정답 갯수를 알 수 없으니 ArrayList
+        ArrayList<Integer> arr = new ArrayList<>();
+        int sum=0;
+        
+        for(int i=0; i<numbers.length-1; i++){
+            for(int k=i+1; k<numbers.length; k++){
+                sum = numbers[i] + numbers[k];
+                if(arr.indexOf(sum)<0){ //배열.indexOf(확인할값) : 존재하면 인덱스 번호 리턴, 존재 X -1 리턴
+                    arr.add(sum);
+                }
+            }
+        }
+        
+        answer = new int[arr.size()];
+        //arrayList에 있던 것을 array로 옮김
+        for(int i=0; i<answer.length; i++){
+            answer[i] = arr.get(i);
+        }
+        Arrays.sort(answer);
+        
+        return answer;
+    }
+}
+
+/*  ArrayList 기본 정리 : 생성, 메소드(get(), add(), size())
+    Array도 다시 한번 복습
+    Set 이용해서 푸는 사람들도 많았으니 다음날 꼭 set 공부해서 다시 풀어보기
+*/
