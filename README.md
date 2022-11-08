@@ -67,7 +67,7 @@
 - **보라** 🍇 [(aroob6)](https://github.com/aroob6)
   - 한 주에 4문제 이상 풀기
 - **유성** 🖤 [(yuseong11)](https://github.com/yuseong11)
-  - 한 주에 3문제 이상 풀기☁️
+  - 한 주에 3문제 이상 풀기
 - **캐시** 🍄 [(suyyeon)](https://github.com/suyyeon)
   - 한 주에 5문제 이상 풀기
 - **림림** :star2: [(selim-jo)](https://github.com/selim-jo)
@@ -78,7 +78,7 @@
   - 한 주에 1문제 이상 풀기
 - **따파** 🍍 [(hong99cone)](https://github.com/hong99cone)
   - 한 주에 2문제 이상 풀기
-- **cotcot** ☁️ [(ssomi0219)](https://github.com/ssomi0219)
+- **cotcot** 🍠 [(ssomi0219)](https://github.com/ssomi0219)
   - 한 주에 1문제 이상 풀기
 
     <!-- 아래와 같이 목표 추가해주세요! -->
