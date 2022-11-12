@@ -184,3 +184,4 @@
 - 팥밥🏄‍♂️
   - 프로그래머스 주사위의 개수
   - 프로그래머스 피자 나눠 먹기2
+  - leetcode 83.Remove Duplicates from sorted list
