@@ -185,3 +185,8 @@
   - 프로그래머스 주사위의 개수
   - 프로그래머스 피자 나눠 먹기2
   - leetcode 83.Remove Duplicates from sorted list
+
+### 11월 13일
+
+- 말감 🎱
+  - 프로그래머스 택배상자
