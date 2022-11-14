@@ -12,7 +12,7 @@
  * @param {function} isBadVersion()
  * @return {function}
  */
-var solution = function(isBadVersion) {
+ var solution = function(isBadVersion) {
     /**
      * @param {integer} n Total versions
      * @return {integer} The first bad version
@@ -20,14 +20,15 @@ var solution = function(isBadVersion) {
     return function(n) {
         let left = 1;
         let right = n;
+        // right가 left보다 클 동안
         while(left < right) {
-            const mid = Math.floor((right + 1) / 2);
+            const mid = Math.floor((right + left) / 2);
             // 중앙값이 BadVersion이 아니면 mid에 1을 더한 값
             if (!isBadVersion(mid)) {
-                return left = mid + 1;
+                left = mid + 1;
             // 그외 중앙값이 BadVersion이면 mid값 
             } else {
-                return right = mid;
+                right = mid;
             }
         }
         return left;
