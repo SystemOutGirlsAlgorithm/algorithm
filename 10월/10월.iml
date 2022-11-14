@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-17" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-18" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-19" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-20" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-23" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-24" isTestSource="false" packagePrefix="algorithm" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-29" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-30" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-10-31" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-11-01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-11-04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-11-05" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

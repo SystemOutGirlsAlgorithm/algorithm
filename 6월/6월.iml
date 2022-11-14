@@ -13,13 +13,13 @@
       <sourceFolder url="file://$MODULE_DIR$/2022-06-09" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2022-06-10" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2022-06-11" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2022-06-12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-06-12" isTestSource="false" packagePrefix="main" />
       <sourceFolder url="file://$MODULE_DIR$/2022-06-18" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2022-06-19" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2022-06-23" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2022-06-25" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-06-25" isTestSource="false" packagePrefix="main" />
       <sourceFolder url="file://$MODULE_DIR$/2022-06-26" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2022-06-30" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2022-06-30" isTestSource="false" packagePrefix="main" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
