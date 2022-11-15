@@ -212,3 +212,7 @@
   - leetcode 35
   - leetcode 278
   - leetcode 704
+
+### 11월 15일
+- 밍 ✨
+  - leetcode 417
