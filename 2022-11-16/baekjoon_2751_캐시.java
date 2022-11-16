@@ -8,7 +8,7 @@ import java.util.Arrays;
 //오름차순으로 정렬하는 프로그램
 public class baekjoon_2751_캐시 {
     public static void main(String[] args) throws IOException {
-        //1. 개수 n 입력
+        //1. 개수 n입력
         //2. 숫자 입력, 줄바꿈으로
         //3. 오름차순 정렬하기
         //4. 출력
