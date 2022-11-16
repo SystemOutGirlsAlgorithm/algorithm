@@ -1,0 +1,16 @@
+class Solution {
+    public int[] solution(long n) {
+        String s = "" + n;
+        int[] answer = new int[s.length()];
+        
+        int i=0;
+        while(n != 0){
+            answer[i] = (int)(n % 10);
+            n /= 10;
+            i++;
+        }
+        return answer;
+    }
+}
+
+//long, int 등 숫자형 길이 구하기가 번거로우니 문자열로 변환 후 익숙한 length() 이용해서 푸는게 포인트
