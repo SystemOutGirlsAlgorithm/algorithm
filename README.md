@@ -250,3 +250,8 @@
   - 백준 5639 이진 검색 트리
 - 보라 🍇
   - 프로그래머스 콜라문제
+- 밍 ✨
+  - leetcode 322
+  - leetcode 416
+  - leetcode 3
+  - leetcode 16
