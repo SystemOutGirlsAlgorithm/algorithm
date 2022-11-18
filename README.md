@@ -265,3 +265,5 @@
   - 인프런인강 올바른괄호
 - 림림 :star2:
   - leetcode 19
+- 밍 ✨
+  - leetcode 152
