@@ -264,7 +264,7 @@
 - 율율 🎠
   - 인프런인강 올바른괄호
 - 림림 :star2:
-  - leetcode 19
+  - leetcode 876
 - 밍 ✨
   - leetcode 152
   - leetcode 199
@@ -275,3 +275,5 @@
   - leetcode 232
   - leetcode 155
   - leetcode 208
+- 림림 :star2:
+  - leetcode 19
