@@ -31,4 +31,3 @@
     back.next = back.next.next; // 현재 front는 null이고 back의 다음 노드가 삭제할 대상이므로
     return dummyRoot.next; // 실질적인 head를 가리키고 있는 dummyRoot.next를 반환
 };
-Console
