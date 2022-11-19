@@ -268,3 +268,10 @@
 - 밍 ✨
   - leetcode 152
   - leetcode 199
+
+### 11월 19일
+
+- 밍 ✨
+  - leetcode 232
+  - leetcode 155
+  - leetcode 208
