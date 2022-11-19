@@ -1,0 +1,40 @@
+import java.util.*;
+
+class Solution {
+    public int[] solution(int[] arr) {
+        int[] answer = {};
+        ArrayList<Integer> arrlist = new ArrayList<Integer>();
+        int len = arr.length; //제일 작은 수가 여러개일 수 있으니 리턴 배열 길이 체크용
+        
+        if(arr.length == 1){
+            answer = new int[1];
+            answer[0] = -1;
+        }else {
+            answer = new int[arr.length];
+            int min = arr[0];
+            
+            //작은 숫자 찾기
+            for(int i=1; i<arr.length; i++){
+                if(min > arr[i])
+                    min = arr[i];
+            }
+            
+            //찾은 수 제외하고 arrList에 넣기
+            for(int i=0; i<answer.length; i++){
+                if(arr[i]==min){
+                    len--;
+                    continue;
+                }
+                arrlist.add(arr[i]);
+            }
+            
+            answer = new int[len];
+            for(int i=0; i<answer.length; i++){
+            answer[i] = arrlist.get(i);
+        }
+        
+        }
+        
+        return answer;
+    }
+}
