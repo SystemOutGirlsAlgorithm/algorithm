@@ -1,0 +1,36 @@
+import java.util.*;
+
+class Solution {
+    public int[] solution(int[] arr, int divisor) {
+        int[] answer = {};
+        ArrayList<Integer> arrList = new ArrayList<Integer>();
+        
+        Arrays.sort(arr);
+        
+        for(int i=0; i<arr.length; i++){ //for(int i:arr) foreach문을 사용하면 런타임에러 뜸 (밑에 계쏙)
+            if(arr[i] % divisor == 0){
+                arrList.add(arr[i]);
+            }else continue;
+        }
+        
+        if(arrList.size()<1){
+            answer = new int[1];
+            answer[0] = -1;
+        }
+        else{
+            answer = new int[arrList.size()];
+            for(int i=0; i<answer.length; i++){
+                answer[i] = arrList.get(i);
+            }
+        }
+        return answer;
+        
+    }
+}
+
+/*
+'for(int i:arr)' foreach문을 사용하면 런타임에러 뜸
+>> Index 36 out of bounds for length 4
+
+
+*/
