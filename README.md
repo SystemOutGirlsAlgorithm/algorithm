@@ -297,3 +297,6 @@
   - 프로그래머스 가운데글자가져오기
 - 림림 :star2:
   - leetcode 3
+- 밍 ✨
+  - leetcode 57
+  - leetcode 56
