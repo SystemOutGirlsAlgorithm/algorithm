@@ -342,6 +342,7 @@
   - leetcode 21
 - 윰리 :full_moon:
   - 백준 11724 연결 요소의 개수
+  - 백준 1463 1로 만들기
 - 밍 ✨
   - leetcode 39
   - leetcode 46
