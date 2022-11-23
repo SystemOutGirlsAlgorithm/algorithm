@@ -340,6 +340,8 @@
 
 - 림림 :star2:
   - leetcode 21
-
 - 윰리 :full_moon:
   - 백준 11724 연결 요소의 개수
+- 밍 ✨
+  - leetcode 39
+  - leetcode 46
