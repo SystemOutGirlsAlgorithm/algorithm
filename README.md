@@ -346,3 +346,8 @@
 - 밍 ✨
   - leetcode 39
   - leetcode 46
+
+### 11월 24일
+
+- 밍 ✨
+  - leetcode 79
