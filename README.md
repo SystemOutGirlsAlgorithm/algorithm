@@ -351,3 +351,5 @@
 
 - 밍 ✨
   - leetcode 79
+- 림림 :star2:
+  - leetcode 206
