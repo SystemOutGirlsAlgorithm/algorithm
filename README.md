@@ -393,11 +393,3 @@
 
 - 림림 :star2:
   - leetcode 14
-  
-
-### 12월 1일
-
-- 림림 :star2:
-  - leetcode 268
-- 림림 :star2:
-  - leetcode 2469
