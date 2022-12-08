@@ -63,7 +63,7 @@
 - **마리앙녜뜌🐤** [(rladphone)](https://github.com/rladphone)
   - 한 주에 1문제 이상 풀기
 - **yun** 🌈 [(yun)](https://github.com/olzj-lb7)
-  - 한 주에 1문제 이상 풀기
+  - 한 주에 1문제 이상 풀기 (12월 첫 주 생략)
 - **보라** 🍇 [(aroob6)](https://github.com/aroob6)
   - 한 주에 4문제 이상 풀기
 - **유성** 🖤 [(yuseong11)](https://github.com/yuseong11)
