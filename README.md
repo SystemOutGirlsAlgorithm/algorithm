@@ -69,7 +69,7 @@
 - **유성** 🖤 [(yuseong11)](https://github.com/yuseong11)
   - 한 주에 3문제 이상 풀기
 - **캐시** 🍄 [(suyyeon)](https://github.com/suyyeon)
-  - 한 주에 5문제 이상 풀기
+  - 한 주에 2문제 이상 풀기
 - **림림** :star2: [(selim-jo)](https://github.com/selim-jo)
   - 한 주에 2문제 이상 풀기
 - **엉비** 🌦 [(led156)](https://github.com/led156)
