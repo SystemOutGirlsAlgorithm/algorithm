@@ -65,7 +65,7 @@
 - **yun** 🌈 [(yun)](https://github.com/olzj-lb7)
   - 한 주에 1문제 이상 풀기 (12월 첫 주 생략)
 - **보라** 🍇 [(aroob6)](https://github.com/aroob6)
-  - 한 주에 4문제 이상 풀기
+  - 한 주에 2문제 이상 풀기
 - **유성** 🖤 [(yuseong11)](https://github.com/yuseong11)
   - 한 주에 3문제 이상 풀기
 - **캐시** 🍄 [(suyyeon)](https://github.com/suyyeon)
@@ -121,3 +121,8 @@
 
 - 말감 🎱
   - 프로그래머스 롤케이크 자르기
+
+### 12월 9일
+
+- 보라 🍇
+  - 프로그래머스 키패드
