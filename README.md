@@ -181,3 +181,5 @@
   - 백준 2164 카드2
 - 림림 :star2:
   - leetcode 575
+- celina :microphone:
+  - 백준 18258 큐2
