@@ -92,7 +92,7 @@
   - 한 주에 5문제 이상 풀기
 - **celina** :microphone: [(celinayk)](https://github.com/celinayk)
   - 한 주에 1문제 이상 풀기
-- MMM 🐻 [yj-melissa · GitHub](https://github.com/yj-melissa)
+- MMM 🐻 [(yj-melissa)](https://github.com/yj-melissa)
   - 한 주에 3문제 이상 풀기(12월 첫 주 생략)
     
     
