@@ -234,3 +234,5 @@
 - 림림 :star2:
   - leetcode 26
   - leetcode 242
+- 밍 ✨
+  - leetcode 1971
