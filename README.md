@@ -252,3 +252,5 @@
 
 - 밍 ✨
   - leetcode 886
+- 림림 :star2:
+  - leetcode 1523
