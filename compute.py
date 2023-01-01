@@ -3,7 +3,7 @@ import os
 import re
 import sys
 
-SOURCE_FILE_EXTENSION = [".java", ".cpp", ".js", ".scala", ".py", ".c", ".ipynb"]
+SOURCE_FILE_EXTENSION = [".java", ".cpp", ".js", ".scala", ".py", ".c", ".ipynb", ".swift"]
 
 problem_count = {}
 
