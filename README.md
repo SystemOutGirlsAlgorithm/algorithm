@@ -1,5 +1,7 @@
 # System.out.girls 알고리즘 스터디
 
+2022.03 ~ 2022.12
+
 ### 운영자
 
 - [**말감** 🎱](https://github.com/malgamlee)
